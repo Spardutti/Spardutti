@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **luisdamian.sp@gmail.com**
 
-- ⚡ Fun fact **I don't trust my code when it works at first try**
+- ⚡ Fun fact **I don't trust my own code when it works at first try**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
