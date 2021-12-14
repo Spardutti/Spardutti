@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Tour Operator](https://github.com/No-Country/Cohorte-1-G10)
 
-- 🌱 I’m currently learning **TypeScriptt**
+- 🌱 I’m currently learning **TypeScript**
 
 - 📫 How to reach me **luisdamian.sp@gmail.com**
 
