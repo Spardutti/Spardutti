@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spardutti" alt="spardutti" /></a> </p>
 
-- 🔭 I’m currently working on learning C#
+- 🔭 I’m currently working on learning typescript and react native
 
-- 🌱 I’m currently learning **TypeScript & C#**
+- 🌱 I’m currently learning **TypeScript & React Native**
 
 - 📫 How to reach me **luisdamian.sp@gmail.com**
 
