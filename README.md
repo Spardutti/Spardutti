@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spardutti" alt="spardutti" /></a> </p>
 
-- 🔭 I’m currently working on learning typescript and react native
+- 🔭 I’m currently working on [Todo App](https://github.com/Spardutti/todoapp-native-ts)
 
 - 🌱 I’m currently learning **TypeScript & React Native**
 
